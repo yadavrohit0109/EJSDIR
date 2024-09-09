@@ -1,0 +1,2 @@
+# EJSDIR
+api node.js
